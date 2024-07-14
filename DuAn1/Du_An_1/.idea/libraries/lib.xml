@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mssql-jdbc-11.2.3.jre17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/itextpdf-5.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
